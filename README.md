@@ -1,1 +1,1 @@
-# amazing-proect
+# amazing-project
